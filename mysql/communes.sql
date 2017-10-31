@@ -727,7 +727,7 @@ INSERT INTO `communes` (`id`, `code_postal`, `nom`, `wilaya_id`) VALUES
 (687, '19013', 'Ain Legraj', 19),
 (688, '19014', 'Ain Abessa', 19),
 (689, '19015', 'Dehamcha', 19),
-(690, '19016', 'Babor', 19),
+(690, '19016', 'Babor', 18),
 (691, '19017', 'Guidjel', 19),
 (692, '19018', 'Ain Lahdjar', 19),
 (693, '19019', 'Bousselam', 19),
